@@ -228,7 +228,7 @@ Este proyecto está bajo licencia MIT.
 
 ## 📞 Contacto
 
-Para soporte o preguntas, contacta a [tu-email@example.com]
+Para soporte o preguntas, contacta a [jesusmelvillemm@gmail.com]
 
 ---
 
