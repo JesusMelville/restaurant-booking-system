@@ -232,4 +232,10 @@ Para soporte o preguntas, contacta a [jesusmelvillemm@gmail.com]
 
 ---
 
+👥 Autores
+
+Jesus Melville - [GitHub](https://github.com/JesusMelville)
+Marlon Levano - [GitHub](https://github.com/MarlonNovaro)
+---
+
 **Hecho con ❤️ para restaurantes modernos**
